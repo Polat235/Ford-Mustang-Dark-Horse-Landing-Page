@@ -60,3 +60,5 @@ Performance metrics featured on the platform:
 ## 🚀 Getting Started & Local Setup
 This project is built using pure HTML, CSS, and vanilla JavaScript, meaning it requires no external dependencies, build tools, or Node.js/NPM environments.
 
+## 📝 License & Disclaimer
+This project was built strictly for educational and portfolio demonstration purposes. All trademarks, logos, and vehicle specifications belong to Ford Motor Company.
