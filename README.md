@@ -55,4 +55,8 @@ Performance metrics featured on the platform:
 ├── style.css      # Core styles and responsive media queries
 ├── script.js      # Navbar, menu toggle, and form interaction logic
 └── README.md      # Project documentation
+```
+
+## 🚀 Getting Started & Local Setup
+This project is built using pure HTML, CSS, and vanilla JavaScript, meaning it requires no external dependencies, build tools, or Node.js/NPM environments.
 
